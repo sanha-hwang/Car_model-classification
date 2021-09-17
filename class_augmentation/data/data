@@ -1,0 +1,1 @@
+classname.py를 통해 각 자동차 json파일로부터 data를 뽑아내어 모든 자동차에 대한 json file, csv file을 작성하였다
