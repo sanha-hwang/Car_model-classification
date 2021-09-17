@@ -1,1 +1,6 @@
 YoloV4 모델을 활용하기 위해 수정한 코드
+core폴더속 utils 파일속 함수 draw_bbox 수정
+detect파일 속 코드 마지막 for문 수정
+
+함수 draw_bbox를 수정하여 car만 인식하기 위해 car class 번호만 부여, crop하기
+detect 코드를 수정하여 crop한 car image를 각각의 파일로 저장을 하는 코드로 작성
